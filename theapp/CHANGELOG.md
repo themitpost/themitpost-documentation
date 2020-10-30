@@ -1,4 +1,4 @@
-![changelog.png](https://i.ibb.co/6RCmzMW/app-changelog.png)
+![changelog.png](https://github.com/themitpost/themitpost-documentation/blob/main/theapp/cl-app.png?raw=true)
 
 # Official Changelog
 This is a collection of changelogs for [The MIT Post app](https://play.google.com/store/apps/details?id=com.thepost.app).
