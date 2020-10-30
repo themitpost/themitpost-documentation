@@ -1,12 +1,13 @@
-![changleog.png](https://i.ibb.co/bF4fZ2R/changelog.png)
-# Changelog
+![changelog.png](https://i.ibb.co/6RCmzMW/app-changelog.png)
+
+# Official Changelog
 This is a collection of changelogs for [The MIT Post app](https://play.google.com/store/apps/details?id=com.thepost.app).
 
 ## v3.0.0 (30-10-2020)
 The much awaited [Flutter](https://flutter.dev/) version of our app is here!
 This version adds tons of new features and improves performance and smoothness significantly.
 
-#### New Features
+**New Features**
  • Exclusive: SLCM makes a comeback with superior quality and speed
  • Read latest articles by our writers without leaving the app
  • Dynamically switching dark mode which is significantly more efficient than the previous implementation
