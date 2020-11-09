@@ -3,6 +3,17 @@
 # Official Changelog
 This is a collection of changelogs for [The MIT Post app](https://play.google.com/store/apps/details?id=com.thepost.app).
 
+## v3.0.1 (09-11-2020)
+We are always working towards bringing you a seamless experience. This update improves performance and patches many of the bugs involving the SLCM and Notices tab:
+
+**Fixes and Improvements**
+- Added: A warning to indicate when SLCM servers are down
+- Added: Spam protection for SLCM logins
+- Fixed: A bug that showed notices had an attachment regardless of if there were any attachments
+- Fixed: Changed the playlist tile from "Playlists By Us" to "Playlists"
+- Updated binaries to the latest versions
+- Several other fixes and improvements
+
 ## v3.0.0 (30-10-2020)
 The much awaited [Flutter](https://flutter.dev/) version of our app is here!
 This version adds tons of new features and improves performance and smoothness significantly.
