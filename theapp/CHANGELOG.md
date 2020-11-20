@@ -3,6 +3,18 @@
 # Official Changelog
 This is a collection of changelogs for [The MIT Post app](https://play.google.com/store/apps/details?id=com.thepost.app).
 
+## v3.0.2 (23-11-2020)
+This update fixes some glitches and also rectifies some of the typos:
+
+**Fixes and Improvements**
+- Added: Support for variable touch resampling to support high refresh rate displays
+- Added: Hardware accelerated UI rendering
+- Fixed: 'TechTatva' category was incorrectly named
+- Fixed: Long notices now get truncated if found longer than 256 chars
+- Fixed: Updated Events API
+- Fixed: Typographical errors in Events tab
+- Several other fixes and general performance improvements
+
 ## v3.0.1 (09-11-2020)
 We are always working towards bringing you a seamless experience. This update improves performance and patches many of the bugs involving the SLCM and Notices tab:
 
